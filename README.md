@@ -38,7 +38,7 @@ The plugin uses Obsidian's native events (not polling) to track position changes
 
 ## Author
 
-**Mei Park** — [@meimakes](https://github.com/meimakes)
+**Diana Park** — [@madebydia](https://github.com/madebydia)
 
 ## License
 

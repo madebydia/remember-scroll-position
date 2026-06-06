@@ -15,7 +15,7 @@
 		"cursor",
 		"position"
 	],
-	"author": "Mei Park <hey@meimakes.com>",
+	"author": "Diana Park <diana@mama.dev>",
 	"license": "MIT",
 	"dependencies": {
 		"@typescript-eslint/eslint-plugin": "^8.56.0",

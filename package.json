@@ -15,21 +15,17 @@
 		"cursor",
 		"position"
 	],
-	"author": "Mei Park <hey@meimakes.com>",
+	"author": "Diana <diana@madebydia.com>",
 	"license": "MIT",
 	"dependencies": {
-		"@typescript-eslint/eslint-plugin": "^8.56.0",
-		"@typescript-eslint/parser": "^8.56.0",
-		"eslint": "^8.57.1",
-		"eslint-plugin-obsidian": "^2.29.0",
-		"monkey-around": "^3.0.0"
+		"monkey-around": "3.0.0"
 	},
 	"devDependencies": {
-		"@types/node": "^22.0.0",
-		"builtin-modules": "^4.0.0",
-		"esbuild": "^0.25.0",
-		"obsidian": "latest",
-		"tslib": "^2.7.0",
-		"typescript": "^5.6.0"
+		"@types/node": "22.19.20",
+		"builtin-modules": "5.2.0",
+		"esbuild": "0.28.0",
+		"obsidian": "1.13.0",
+		"tslib": "2.8.1",
+		"typescript": "5.9.3"
 	}
 }

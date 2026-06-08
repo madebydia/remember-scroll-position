@@ -1,6 +1,6 @@
 {
 	"name": "remember-scroll-position",
-	"version": "1.0.16",
+	"version": "1.0.17",
 	"description": "Remembers your cursor and scroll position for each note",
 	"main": "main.js",
 	"scripts": {
